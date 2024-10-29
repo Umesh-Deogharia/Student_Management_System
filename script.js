@@ -132,7 +132,6 @@ function allFunctionalizies() {
       let Id = document.createElement("td");
       let Name = document.createElement("td");
       let Gender = document.createElement("td");
-      // let Gender2 = document.createElement("td");
       let Class = document.createElement("td");
       let Marks = document.createElement("td");
       let Passing = document.createElement("td");
